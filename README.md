@@ -16,7 +16,8 @@
    npm install
 
 3. **Set up environment variables**
- -Rename .env.example to .env
+   
+    - Rename .env.example to .env
 
 4. **Start the development server**
    ```bash
